@@ -3,4 +3,4 @@ project(cppapp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cppapp main.cpp Fibonacci.cpp Fibonacci.h)
+add_executable(cppapp main.cpp fibonacci.cpp fibonacci.h)

@@ -7,7 +7,7 @@
 
 #include <vector>
 
-class Fibonacci {
+class fibonacci {
 private:
     std::vector<unsigned long long> series{1LL, 1LL};
 public:
